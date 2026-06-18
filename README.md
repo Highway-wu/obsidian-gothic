@@ -95,6 +95,10 @@ Gothic is inspired by [Typora's Gothic theme](https://theme.typora.io/theme/Goth
 
 ## Changelog
 
+### 1.0.2
+
+- Publish a new release that includes the light and dark screenshots in the release revision.
+
 ### 1.0.1
 
 - Increase link font weight so Chinese link text aligns better with Latin letters and numbers.
