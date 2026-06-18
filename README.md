@@ -2,7 +2,7 @@
 
 Gothic is a clean, typography-focused Obsidian theme inspired by Typora's Gothic theme.
 
-![Gothic screenshot](screenshot.png)
+![Gothic screenshot](screenshot-light.png)
 
 Gothic brings a quiet writing surface to Obsidian: a neutral page, centered uppercase headings, red links, generous line height, and a Century Gothic / TeX Gyre Adventor style font stack.
 
