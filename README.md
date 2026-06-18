@@ -2,7 +2,7 @@
 
 Gothic is a clean, typography-focused Obsidian theme inspired by Typora's Gothic theme.
 
-![Gothic screenshot](screenshot-light.png)
+![Gothic light screenshot](screenshot-light.png)
 
 Gothic brings a quiet writing surface to Obsidian: a neutral page, centered uppercase headings, red links, generous line height, and a Century Gothic / TeX Gyre Adventor style font stack.
 
@@ -18,9 +18,17 @@ Gothic brings a quiet writing surface to Obsidian: a neutral page, centered uppe
 
 ## Screenshots
 
-The preview image above is optimized for the Obsidian Community theme directory at `512 x 288` pixels.
+The light screenshot is optimized for the Obsidian Community theme directory at `512 x 288` pixels.
 
 Gothic supports both light and dark modes, with the light mode designed as the primary experience.
+
+### Light mode
+
+![Gothic light mode](screenshot-light.png)
+
+### Dark mode
+
+![Gothic dark mode](screenshot-dark.png)
 
 ## Installation
 
@@ -91,6 +99,7 @@ Gothic is inspired by [Typora's Gothic theme](https://theme.typora.io/theme/Goth
 
 - Increase link font weight so Chinese link text aligns better with Latin letters and numbers.
 - Add a light-first `512 x 288` community directory screenshot.
+- Add a dark mode screenshot to the README.
 
 ## License
 
